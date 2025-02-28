@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Topic 06"
+---
+
 <script type="module">
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true });
