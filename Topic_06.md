@@ -39,7 +39,7 @@
     | It generally produces more optimized machine code, leading to better performance. |  |  |
     | It is commonly used in scripting and web-based applications. |  |  |
     | The output of the translation is a standalone executable file. |  |  |
-    | | It provides better error diagnostics by pointing to the exact line where an error occurs. |  |  |
+    | It provides better error diagnostics by pointing to the exact line where an error occurs. |  |  |
     | The development cycle involves separate steps of writing, compiling, and linking. |  |  |
     | It allows on-the-fly code modifications, making it useful for rapid prototyping. |  |  |
     | Security is enhanced since the end user cannot easily view or modify the source code. |  |  |
