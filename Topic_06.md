@@ -16,4 +16,6 @@
 
 | Statement | Compiler | Intepreter |
 |-----------|----------|------------|
-| This is a very longs statement about some stuff which may or may not be interesting depending on your point of view. |  |  |
+| This is a very long statement about some stuff which may or may not be interesting depending on your point of view. |  |  |
+
+1. Has my list numbering restarted?
