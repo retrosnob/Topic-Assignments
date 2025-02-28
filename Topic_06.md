@@ -47,4 +47,7 @@
     | Memory management can be more efficient since the program structure is fully analyzed before execution. |  |  |
     | It is often used for educational purposes to help beginners learn programming concepts. |  |  |
 
-1. Has my list numbering restarted?
+1. Explain how an assembler is different from a compiler or translator.
+1. Describe the characteristics of a virtual machine and explain why virtual machines were developed.
+
+
