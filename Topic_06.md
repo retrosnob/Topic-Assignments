@@ -12,7 +12,7 @@
 1. State four resources managed by the operating system
 1. Describe one advantage of a compiler and one disadvantage of an interpreter.
 1. Describe one advantage of an interpreter and one disadvantage of a compiler.
-1. I asked ChatGPT to give me as many statements about compilers
+1. Tick the box for which the statement is true:
 
     | Statement | Compiler | Intepreter |
     |-----------|----------|------------|
