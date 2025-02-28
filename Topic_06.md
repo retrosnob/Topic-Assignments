@@ -14,8 +14,8 @@
 1. Describe one advantage of an interpreter and one disadvantage of a compiler.
 1. Tick the compiler or interpreter box depending on for which each of the following statements is true:
 
-| Statement | Compiler | Intepreter |
-|-----------|----------|------------|
-| This is a very long statement about some stuff which may or may not be interesting depending on your point of view. |  |  |
+    | Statement | Compiler | Intepreter |
+    |-----------|----------|------------|
+    | This is a very long statement about some stuff which may or may not be interesting depending on your point of view. |  |  |
 
 1. Has my list numbering restarted?
