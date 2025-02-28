@@ -13,6 +13,7 @@
 1. Describe one advantage of a compiler and one disadvantage of an interpreter.
 1. Describe one advantage of an interpreter and one disadvantage of a compiler.
 1. Tick the compiler or interpreter box depending on for which each of the following statements is true:
+
 | Statement | Compiler | Intepreter |
 |-----------|----------|------------|
 | This is a very longs statement about some stuff which may or may not be interesting depending on your point of view. |  |  |
