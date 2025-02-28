@@ -32,7 +32,7 @@
     | It allows for interactive execution and testing of code snippets. |  |  |
     | The translated code is usually specific to a particular type of computer architecture. |  |  |
     | It requires a runtime environment to execute the translated code. |  |  |
-    | Once translated, the program can be executed multiple times without recompilation. |  |  |
+    | Once translated, the program can be executed multiple times without retranslation. |  |  |
     | It often uses less storage space since no machine code is saved. |  |  |
     | The translation process typically takes longer since the entire source is analyzed in one go. |  |  |
     | It facilitates dynamic typing and late binding, allowing variables to change types during execution. |  |  |
@@ -40,7 +40,7 @@
     | It is commonly used in scripting and web-based applications. |  |  |
     | The output of the translation is a standalone executable file. |  |  |
     | It provides better error diagnostics by pointing to the exact line where an error occurs. |  |  |
-    | The development cycle involves separate steps of writing, compiling, and linking. |  |  |
+    | The development cycle involves separate steps of writing, translating, and linking. |  |  |
     | It allows on-the-fly code modifications, making it useful for rapid prototyping. |  |  |
     | Security is enhanced since the end user cannot easily view or modify the source code. |  |  |
     | It is typically slower in execution speed due to the overhead of runtime translation. |  |  |
