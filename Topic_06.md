@@ -136,6 +136,9 @@
     | 1 | 1 | 1 | 0 |
 
 1.  Simplify the following Boolean expression:
-$$
-\overline{\overline{A}+B}.B
-$$
+    $$
+    \overline{\overline{A}+B}.B
+    $$
+    For other further Boolean algebra practice, see 
+        * [AQA Boolean Algebra Document](https://tonbridgeschool4.sharepoint.com/:b:/r/sites/ComputerScience/Shared%20with%20Students/A%20Level/Files/Boolean%20Algebra.PDF)
+        * [Topic 1](Topic_01.html)
