@@ -134,7 +134,7 @@
     | 1 | 1 | 0 | 0 |
     | 1 | 1 | 1 | 0 |
 
-1.  This is a block math equation:
+1.  Simplify the following Boolean expression:
 $$
 \overline{\overline{A}+B}.B
 $$
