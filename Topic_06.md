@@ -113,7 +113,7 @@
     
 1.  Write the boolean expression that corresponds to this truth table:
 
-    | A | B | C Out |
+    | A | B | C | Out |
     |-----|-----|-----|
     | 0 | 0 | 0 | 0 |
     | 0 | 0 | 1 | 1 |
