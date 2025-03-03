@@ -136,10 +136,5 @@
 
 1.  This is a block math equation:
 $$
-\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
-$$
-
-1.  This is a block math equation:
-$$
-\overline{\overline{A}+B}.C
+\overline{\overline{A}+B}.B
 $$
