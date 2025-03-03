@@ -60,8 +60,17 @@
     | Contains high-level instructions |  |  |
 1.  State the logic gate that has the truth table:
 
+    | In1 | In2 | Out |
     | 0 | 0 | 0 |
     | 0 | 1 | 0 |
     | 1 | 0 | 0 |
     | 1 | 1 | 1 |
+
+1.  State the logic gate that has the truth table:
+
+    | In1 | In2 | Out |
+    | 0 | 0 | 0 |
+    | 0 | 1 | 1 |
+    | 1 | 0 | 1 |
+    | 1 | 1 | 0 |
 
