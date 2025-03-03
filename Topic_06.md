@@ -62,6 +62,7 @@
 1. Tick the boxes to match the statements:
 
     |  | Source code | Object code |
+    |---|---|---|
     | Stored in a text file |  |  |
     | Stored in a binary file |  |  |
     | Can be executed without translation |  |  |
