@@ -49,5 +49,17 @@
 
 1. Explain how an assembler is different from a compiler or translator.
 1. Describe the characteristics of a virtual machine and explain why virtual machines were developed.
-
+1. Tick the boxes to match the statements:
+    |  | Source code | Object code |
+    | Stored in a text file |  |  |
+    | Stored in a binary file |  |  |
+    | Can be executed without translation |  |  |
+    | Must be translated before execution |  |  |
+    | Contains low-level instructions |  |  |
+    | Contains high-level instructions |  |  |
+1.  State the logic gate that has the truth table:
+    | 0 | 0 | 0 |
+    | 0 | 1 | 0 |
+    | 1 | 0 | 0 |
+    | 1 | 1 | 1 |
 
