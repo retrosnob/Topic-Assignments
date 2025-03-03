@@ -49,3 +49,6 @@
 1. State which set of prefixes, the binary or the denary prefixes, is commonly used in the follow circumstances. Justify your answer.
     1. Communication / Network Traffic
     1. Storage
+
+### 5.4
+1. Explain how a binary number can be converted to its additive inverse (negative form) using two's complement. Illustrate your process using the example $89$.

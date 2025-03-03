@@ -141,5 +141,5 @@ $$
 
 1.  This is a block math equation:
 $$
-\overline{A}.B
+\overline{A+B}.C
 $$
