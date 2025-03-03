@@ -61,7 +61,7 @@
 
 1.  State the logic gate that has the truth table:
 
-    | In1 | In2 | Out |
+    | A | B | Out |
     |-----|-----|-----|
     | 0 | 0 | 0 |
     | 0 | 1 | 0 |
@@ -70,7 +70,7 @@
 
 1.  State the logic gate that has the truth table:
 
-    | In1 | In2 | Out |
+    | A | B | Out |
     |-----|-----|-----|
     | 0 | 0 | 0 |
     | 0 | 1 | 1 |
@@ -79,7 +79,7 @@
 
 1.  State the logic gate that has the truth table:
 
-    | In1 | In2 | Out |
+    | A | B | Out |
     |-----|-----|-----|
     | 0 | 0 | 1 |
     | 0 | 1 | 0 |
@@ -88,7 +88,7 @@
 
 1.  State the logic gate that has the truth table:
 
-    | In1 | In2 | Out |
+    | A | B | Out |
     |-----|-----|-----|
     | 0 | 0 | 0 |
     | 0 | 1 | 1 |
@@ -97,7 +97,7 @@
 
 1.  State the logic gate that has the truth table:
 
-    | In1 | In2 | Out |
+    | A | B | Out |
     |-----|-----|-----|
     | 0 | 0 | 1 |
     | 0 | 1 | 1 |
@@ -106,8 +106,25 @@
 
 1.  State the logic gate that has the truth table:
 
-    | In1 | Out |
+    | A | Out |
     |-----|-----|
     | 0 | 1 |
     | 1 | 0 |
     
+1.  Write the boolean expression that corresponds to this truth table:
+
+    | A | B | C Out |
+    |-----|-----|-----|
+    | 0 | 0 | 0 | 0 |
+    | 0 | 0 | 1 | 1 |
+    | 0 | 1 | 0 | 0 |
+    | 0 | 1 | 1 | 0 |
+    | 1 | 0 | 0 | 1 |
+    | 1 | 0 | 1 | 1 |
+    | 1 | 1 | 0 | 0 |
+    | 1 | 1 | 1 | 0 |
+
+1.  This is a block math equation:
+$$
+\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
+$$
