@@ -139,9 +139,6 @@
     $$
     \overline{\overline{A}+B}.B
     $$
-    For other further Boolean algebra practice, see 
-        * [AQA Boolean Algebra Document](https://tonbridgeschool4.sharepoint.com/:b:/r/sites/ComputerScience/Shared%20with%20Students/A%20Level/Files/Boolean%20Algebra.PDF)
-        * [Topic 1](Topic_01.html)
 1. Distribute over the bracket:
     $$
     X.(Y+Z)
@@ -158,3 +155,6 @@
     $$
     (X+Y).(Y+Z)
     $$
+    For other further Boolean algebra practice, see 
+    * [AQA Boolean Algebra Document](https://tonbridgeschool4.sharepoint.com/:b:/r/sites/ComputerScience/Shared%20with%20Students/A%20Level/Files/Boolean%20Algebra.PDF)
+    * [Boolean Algebra Solver](https://www.boolean-algebra.com/)
