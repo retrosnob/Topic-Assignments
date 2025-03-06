@@ -148,5 +148,13 @@
     $$
 1. Distribute over the bracket:
     $$
-    P+(Q.R)
+    P+(Q.\overline{R})
+    $$
+1. Factorise:
+    $$
+    (A.C)+(\overline{B}.A)
+    $$
+1. Factorise:
+    $$
+    (X+Y).(Y+Z)
     $$
