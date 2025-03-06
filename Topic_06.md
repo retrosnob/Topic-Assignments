@@ -148,5 +148,5 @@
     $$
 1. Distribute over the bracket:
     $$
-    P+(Q+R)
+    P+(Q.R)
     $$
